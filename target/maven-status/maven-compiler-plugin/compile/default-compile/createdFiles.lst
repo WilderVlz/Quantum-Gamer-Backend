@@ -4,5 +4,6 @@ com/marcketplace/MarcketPlace/controller/ShoppingCartController.class
 com/marcketplace/MarcketPlace/model/Product.class
 com/marcketplace/MarcketPlace/service/ShoppingCartService.class
 com/marcketplace/MarcketPlace/repository/ShoppingCartRepository.class
+com/marcketplace/MarcketPlace/model/PurchaseOrder.class
 com/marcketplace/MarcketPlace/MarcketPlaceApplication.class
 com/marcketplace/MarcketPlace/service/Impl/ShoppingCartImpl.class
